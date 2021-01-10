@@ -1,5 +1,11 @@
 # Aquest programa ve del concurs "HP Codewars"
 # Aquesta va ser la meva solució al problema 27
+#
+# El programa fa castells fent servir "#" com a
+# castellers. L'usuari ha d'introduir el castell
+# que vol en llenguatge natural, i el programa
+# imprimirà per pantalla el castell.
+# Exemple: tres de vuit amb folre i l'agulla
 
 c = {
 	'pilar': 1,
